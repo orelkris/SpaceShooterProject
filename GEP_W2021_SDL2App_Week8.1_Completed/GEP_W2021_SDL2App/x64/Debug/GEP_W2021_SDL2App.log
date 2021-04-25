@@ -1,0 +1,6 @@
+﻿  GameOverState.cpp
+C:\Users\orelkris\OneDrive\Desktop\Winter2021\Game Engineering Principals\week 8\GEP_W2021_SDL2App_Week8.1_Completed\GEP_W2021_SDL2App\Player.h(32,23): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\orelkris\OneDrive\Desktop\Winter2021\Game Engineering Principals\week 8\GEP_W2021_SDL2App_Week8.1_Completed\GEP_W2021_SDL2App\Player.h(33,23): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\orelkris\OneDrive\Desktop\Winter2021\Game Engineering Principals\week 8\GEP_W2021_SDL2App_Week8.1_Completed\GEP_W2021_SDL2App\Player.h(34,23): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\orelkris\OneDrive\Desktop\Winter2021\Game Engineering Principals\week 8\GEP_W2021_SDL2App_Week8.1_Completed\GEP_W2021_SDL2App\Player.h(35,23): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  GEP_W2021_SDL2App.vcxproj -> C:\Users\orelkris\OneDrive\Desktop\Winter2021\Game Engineering Principals\week 8\GEP_W2021_SDL2App_Week8.1_Completed\x64\Debug\GEP_W2021_SDL2App.exe

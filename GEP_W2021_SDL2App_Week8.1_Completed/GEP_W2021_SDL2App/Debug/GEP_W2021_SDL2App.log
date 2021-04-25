@@ -1,0 +1,3 @@
+﻿  Sprite.cpp
+C:\Users\User12k20\source\repos\GEP_W2021_SDL2App\GEP_W2021_SDL2App\Sprite.cpp(46,13): warning C4244: 'initializing': conversion from 'float' to 'Uint32', possible loss of data
+  GEP_W2021_SDL2App.vcxproj -> C:\Users\User12k20\source\repos\GEP_W2021_SDL2App\Debug\GEP_W2021_SDL2App.exe
